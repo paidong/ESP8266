@@ -18,7 +18,7 @@ The toolkit is quite useful for debugging, development and programming to an ESP
 
 7. Available with a quick launch to some frequently used AT commands.
 
-8. Available with a capability to boot the ESP8266EX module from serial port.
+8. Available with a capability to boot the ESP8266EX module from serial port, and retrieve the chip info such as chipid, mac address, and flash info etc, and dump registers values without need of firmware.
 
 9. Available with a flexible flash downloading interface, with On-Press-Program? (OPP?) capabilities, supporting various types of Flash Map and SPI configuration, more debug information output, GPIO selection for LED indicator, and downloading speed selection during flash programming.
 
@@ -26,7 +26,7 @@ The toolkit is quite useful for debugging, development and programming to an ESP
 
 11. Supporting various Windows Operation Systems.
 
-12. Setting automatically saved and loaded
+12. Settings automatically saved and loaded
 
 13. More to be found out.
 
